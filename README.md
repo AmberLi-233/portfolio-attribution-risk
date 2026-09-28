@@ -354,15 +354,10 @@ place.
       by side, and quantify how much "selection" was style
 - [ ] Currency attribution for multi-currency portfolios
 
-## References
 
-- Brinson, Hood & Beebower (1986), *Determinants of Portfolio Performance*
-- Brinson & Fachler (1985), *Measuring Non-US Equity Portfolio Performance*
-- Cariño (1999), *Combining Attribution Effects Over Time*
-- Grinold & Kahn (1999), *Active Portfolio Management*, ch. 3
-- MSCI Barra, *Risk Model Handbook*
 
----
 
-Qing (Amber) Li — M.S. Mathematical Finance, Boston University. Background in
-liquidity risk (Goldman Sachs) and independent derivatives valuation (PwC).
+
+
+
+
